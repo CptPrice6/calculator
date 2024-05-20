@@ -25,7 +25,7 @@ This is a simple calculator application built using Java Swing. The application 
 ## Button Classes
 
 - **Button.java**: Abstract base class for all buttons. Provides common functionality for button actions.
-- **NumericButton.java**: Represents a button for numeric input. Extends `Button`.
+- **NumberButton.java**: Represents a button for numeric input. Extends `Button`.
 - **OperationButton.java**: Represents a button for arithmetic operations. Extends `Button`.
 - **ClearButton.java**: Represents a button to clear the expression. Extends `Button`.
 - **EqualsButton.java**: Represents a button to compute the result. Extends `Button`.
